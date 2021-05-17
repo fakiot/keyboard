@@ -4,7 +4,7 @@ Simple library to listen for keystrokes from the keyboard
 The code is inspired by [termbox-go](https://github.com/nsf/termbox-go) library.
 
 ### Installation
-Install and update this go package with `go get -u github.com/eiannone/keyboard`
+Install and update this go package with `go get -u github.com/fakiot/keyboard`
 
 ### Usage
 Example of getting a single keystroke:
@@ -23,7 +23,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/eiannone/keyboard"
+	"github.com/fakiot/keyboard"
 )
 
 func main() {		
@@ -54,7 +54,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/eiannone/keyboard"
+	"github.com/fakiot/keyboard"
 )
 
 func main() {
